@@ -2,9 +2,7 @@
 Tracking the object by MeanshiftCluster. Increase the precision by Kalman Filtering
 
 
-================================================================================
-    MFC 라이브러리 : Mean shift clustering 프로젝트 개요
-===============================================================================
+## MFC 라이브러리 : Mean shift clustering 프로젝트 개요
 
 응용 프로그램 마법사에서 이 Mean shift clustering 응용 프로그램을 만들었습니다. 이 응용 프로그램은 MFC의 기본 사용법을 보여 줄 뿐만 아니라 응용 프로그램을 작성하기 위한 기본 구조를 제공합니다.
 
